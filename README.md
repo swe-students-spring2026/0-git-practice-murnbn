@@ -10,6 +10,6 @@ But in other areas of healthcare, the opposite problem – knowledgeable tech wo
 
 I found this article really interesting because it highlights a contradiction in the tech industry right now. On one hand, there are over 150,000 unemployed IT professionals and an overall decline in IT job growth. On the other hand, specialized areas like healthcare technology are experiencing strong demand for roles such as software engineers, data analysts, and cybersecurity professionals. This contrast shows how important adaptability and specialized skills are in software development. It’s not just about being in tech, but about understanding which industries and problem areas need technical solutions the most. Healthcare in particular seems to be a space where technology can have a meaningful real-world impact while also offering strong career opportunities.
 
-## Ermuun Bayartsaikhan's comment
+## Ermuun Bayartsaikhan's comment on article
 
 This is a great observation. The article does a good job showing that “tech unemployment” doesn’t tell the whole story—it really depends on which skills and which industries you’re looking at. Your point about healthcare is especially strong, since it highlights how software development can be both impactful and resilient when applied to real-world problems. It’s a good reminder that staying relevant in tech often means continuously learning and aligning skills with areas of genuine demand.
